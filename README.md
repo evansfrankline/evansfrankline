@@ -1,10 +1,10 @@
 # Hi, I'm Arinze 👋
 
-### AI & Machine Learning Graduate | Python | Deep Learning | Computer Vision | Data Science
+### MSc Artificial Intelligence & Machine Learning Graduate | Computer Science Graduate
 
-I am an Artificial Intelligence and Machine Learning graduate with a background in Computer Science and practical experience in machine learning, deep learning, computer vision, data analysis, software development, and IT support.
+I am an Artificial Intelligence and Machine Learning graduate with a background in Computer Science and practical experience in machine learning, deep learning, computer vision, explainable AI, data analysis, and big data technologies.
 
-I enjoy using AI and data-driven technologies to solve real-world problems and continuously developing my technical skills through practical projects.
+I enjoy building practical AI and data-driven solutions to real-world problems through academic and personal projects.
 
 ## 🧠 Technical Skills
 
