@@ -26,6 +26,24 @@ MSc final project focused on image-based machine learning and classification usi
 - False-positive and false-negative analysis
 - Achieved 81.3% accuracy on normal-quality images and 80.0% on low-quality images.
 
+### 🔍 Explainable AI – Diabetes Prediction
+
+Research project focused on applying Explainable AI techniques to diabetes prediction using machine learning models.
+
+- Logistic Regression, Random Forest and XGBoost
+- SHAP and LIME explainability methods
+- Counterfactual explanation evaluation
+- Model performance and interpretability analysis
+
+### 📊 Big Data Applications
+
+Big Data project involving the analysis of a large real-world dataset using machine learning and data analysis techniques.
+
+- Large-scale data processing and analysis
+- Data preprocessing and visualisation
+- Machine learning model development
+- Model evaluation and comparison
+
 ### 💡 Explainable AI for Healthcare
 Research project focused on improving the interpretability of machine learning predictions.
 
